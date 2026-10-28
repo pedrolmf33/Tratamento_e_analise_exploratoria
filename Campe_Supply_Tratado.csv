@@ -303,7 +303,6 @@ Data da Venda,Setor,Produto,Vendedor,Região,Estado,Cliente,Faturamento,Margem d
 16/03/2035,Latícinio,Queijo,Amaral,Sudeste,Rio Grande do Norte,Varejo,1185.86,0.06,71.15159999999999
 16/03/2035,Latícinio,Leite,Jonas,Sudeste,São Paulo,Atacado,1469.88,0.14,205.78320000000002
 17/03/2035,Carnes,Frango,Daniele,Nordeste,Bahia,Atacarejo,1153.9,0.15,173.085
-17/03/2035,Latícinio,Suína,Amaral,Sudeste,Paraná,Atacarejo,1192.84,0.17,202.7828
 17/03/2035,Bebidas,Sucos,Evandro,Nordeste,Rio Grande do Norte,Varejo,1146.71,0.18,206.4078
 17/03/2035,Bebidas,Queijo,Leo,Sudeste,São Paulo,Atacado,1256.9,0.06,75.414
 18/03/2035,Carnes,Bovina,Evandro,Sul,Rio Grande do Sul,Varejo,1128.34,0.08,90.26719999999999
@@ -571,7 +570,6 @@ Data da Venda,Setor,Produto,Vendedor,Região,Estado,Cliente,Faturamento,Margem d
 21/05/2035,Carnes,Bovina,Leo,Sudeste,Rio de Janeiro,Varejo,724.87,0.13,94.23310000000001
 21/05/2035,Latícinio,Queijo,Evandro,Sul,Paraná,Varejo,695.06,0.07,48.6542
 21/05/2035,Carnes,Suína,Vanessa,Nordeste,Rio Grande do Norte,Atacarejo,707.18,0.1,70.718
-22/05/2035,Congelados,Sorvete,Vanessa,Sul,Rio Grande do Sul,Atacarejo,8581.6,0.06,514.896
 22/05/2035,Carnes,Frango,Leo,Sudeste,Rio de Janeiro,Atacado,720.16,0.08,57.6128
 22/05/2035,Latícinio,Leite,Amaral,Sul,Rio Grande do Sul,Atacado,816.11,0.18,146.8998
 22/05/2035,Bebidas,Refrigerantes,Amaral,Nordeste,Bahia,Atacarejo,687.77,0.06,41.2662
@@ -1303,7 +1301,6 @@ Data da Venda,Setor,Produto,Vendedor,Região,Estado,Cliente,Faturamento,Margem d
 10/11/2035,Congelados,Pizza,Daniele,Sudeste,São Paulo,Varejo,546.16,0.14,76.4624
 10/11/2035,Bebidas,Refrigerantes,Vanessa,Nordeste,Rio Grande do Norte,Atacarejo,681.38,0.11,74.9518
 10/11/2035,Bebidas,Refrigerantes,Daniele,Sul,Paraná,Varejo,574.05,0.08,45.924
-11/11/2035,Latícinio,Queijo,Amaral,Sul,Paraná,Varejo,544.25,0.06,32.655
 11/11/2035,Bebidas,Cervejas,Amaral,Nordeste,Rio Grande do Norte,Atacarejo,696.32,0.08,55.705600000000004
 11/11/2035,Carnes,Frango,Leo,Sul,Santa Catarina,Atacado,766.84,0.12,92.0208
 11/11/2035,Bebidas,Cervejas,Vanessa,Nordeste,Bahia,Atacado,607.77,0.15,91.1655
